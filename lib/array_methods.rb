@@ -15,7 +15,7 @@ def using_first(array)
 end
 
 def using_last(array)
-  array.using_last.last
+  p array.using_last.last
 end
 
 def using_size(array)
